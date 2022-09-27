@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Sultan 👋
 
-<!--
-**Sultannis/Sultannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am a web developer with expertise Vue js and Node js. Actively involved and interested in independent projects and startups. To learn about me more check out my [personal website](https://sultanterminal.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚓ Technologies that I use: 
+
+ - JavaScript
+ - Typescript
+ - HTML
+ - CSS
+ - Vue js
+ - Node js
+ - Express
+ - Nest js
+ - PosgreSQL
+ - MySQL
+
+🌊 Technologies that I'm learning:
+ - Docker
+ - Kotlin
+
+📪 You can contact me via [telegram](https://t.me/Sultan_Mus) 
